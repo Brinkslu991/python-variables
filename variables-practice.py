@@ -43,9 +43,9 @@ print(f'This book costs {book_price}')
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
-first_name 'Lucas'
-full_name 'Lucas Brinks'
-city 'Travers City'
-print('My first name is {first_name}')
-print('My full name is {full_name} and i live in {city}')
-print('I am {age}')
+first_name = 'Lucas'
+full_name = 'Lucas Brinks'
+city = 'Traverse City'
+print(f'My first name is {first_name}')
+print(f'My full name is {full_name} and i live in {city}')
+print(f'I am {age}')
