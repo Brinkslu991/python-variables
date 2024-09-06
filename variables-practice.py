@@ -18,10 +18,10 @@
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
-School = 'Career Tech'
+school = 'Career Tech'
 favorite_singer = 'Shinedown'
 greeting = 'Good Evening'
-print('My favorite band is {favorite_singer}')
+print(f'My favorite band is {favorite_singer}')
 
 
 
@@ -30,10 +30,10 @@ print('My favorite band is {favorite_singer}')
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
-age '16'
-conversion_factor '2.25'
-book_price '20.99'
-print('This book costs {book_price}')
+age = 16
+conversion_factor = 2.25
+book_price = 20.99
+print(f'This book costs {book_price}')
 
 
 
